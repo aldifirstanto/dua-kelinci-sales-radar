@@ -1,1 +1,0 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/components/dataqualitydrawer.tsx","./src/components/multiselectslicer.tsx","./src/components/regionbrandcharts.tsx","./src/components/telegramdigestcard.tsx","./src/components/weakestoutletssection.tsx","./src/lib/format.ts","./src/lib/salesanalytics.test.ts","./src/lib/salesanalytics.ts","./src/types/sales.ts"],"version":"5.8.3"}
